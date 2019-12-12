@@ -10,7 +10,7 @@
   @endif
 </div>
 <div>
-    <a style="aa margin: 19px;" href="{{ route('contacts.create')}}" class="btn btn-primary">New contact</a>
+    <a style="aaaa margin: 19px;" href="{{ route('contacts.create')}}" class="btn btn-primary">New contact</a>
 </div> 
 <div class="row">
 <div class="col-sm-12">
